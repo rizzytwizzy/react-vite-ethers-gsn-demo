@@ -96,7 +96,7 @@ function App() {
       </div>
       
       <p className="read-the-docs">
-        Open Developer Tools for logs, connect MetaMask account and select Goerli network to make a GSN transaction.
+        Open Developer Tools for logs, connect MetaMask account and select Goerli network to make a GSN transaction. Made with Vite, React, and GSN. Deployed on IPFS.
       </p>
     </>
   )
